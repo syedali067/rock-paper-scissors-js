@@ -54,8 +54,10 @@ This project is great for understanding basic DOM manipulation and game logic in
 ![Computer Win](https://github.com/syedali067/rock-paper-scissors-js/blob/ba335cc9a02914f51108941bd16f58b590f1866b/picture2.png)
 ![User Win](https://github.com/syedali067/rock-paper-scissors-js/blob/ba335cc9a02914f51108941bd16f58b590f1866b/picture3.png)
 
+---
 Demo Link
 https://syedali067.github.io/rock-paper-scissors-js/
+---
 👨‍💻 Author
 
 Made by Ali Syed
