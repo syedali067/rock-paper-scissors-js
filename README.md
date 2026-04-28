@@ -50,7 +50,7 @@ This project is great for understanding basic DOM manipulation and game logic in
 ---
 
 ## 📸 Screenshot
-https://raw.githubusercontent.com/USERNAME/REPO_NAME/BRANCH_NAME/picture1.png
+[https://raw.githubusercontent.com/USERNAME/REPO_NAME/BRANCH_NAME/picture1.png](https://github.com/syedali067/rock-paper-scissors-js/blob/ba335cc9a02914f51108941bd16f58b590f1866b/picture1.png)
 https://raw.githubusercontent.com/USERNAME/REPO_NAME/BRANCH_NAME/picture2.png
 https://raw.githubusercontent.com/USERNAME/REPO_NAME/BRANCH_NAME/picture3.png
 
